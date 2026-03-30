@@ -137,9 +137,3 @@ yoga-pose-recognition/
 * PoseNet by Google Research
 * Streamlit Documentation
 
----
-
-## Author
-
-Yashasvee Masani
-MCA Student | Aspiring Software Developer
